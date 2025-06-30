@@ -10,9 +10,18 @@ const paths = data
 function makeTree(paths) {
   const tree = {};
   paths.forEach(p => {
+    // Pašalinam \\ ir padalinam per \
     const parts = p.replace(/^\\\\/, '').split('\\');
-    let current = tree;
-    parts.forEach(part => {
+
+    // Sujungiame pirmus 3 segmentus į vieną "root" elementą
+    const root = '\\\\' + parts.slice(0,3).join('\\');
+    const rest = parts.slice(3);
+
+    // Jei root dar neegzistuoja, sukuriam
+    if (!tree[root]) tree[root] = {};
+
+    let current = tree[root];
+    rest.forEach(part => {
       if (!current[part]) current[part] = {};
       current = current[part];
     });
@@ -20,7 +29,6 @@ function makeTree(paths) {
   return tree;
 }
 
-// Sukursim eilutę su visu spausdinimu (vietoj console.log)
 function printTreeToString(node, prefix = '') {
   let result = '';
   const keys = Object.keys(node).sort();
@@ -38,4 +46,4 @@ const output = printTreeToString(tree);
 // Įrašome į failą
 fs.writeFileSync('info/done.txt', output, 'utf-8');
 
-console.log('Medis išsaugotas faile: done.txt');
+console.log('Medis išsaugotas faile: info/done.txt');
