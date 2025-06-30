@@ -1,0 +1,15 @@
+{
+  "name": "txt-hierarchy-decomposition",
+  "version": "1.0.0",
+  "description": "![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)\r ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)\r ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)",
+  "main": "tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AntiusDragon",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

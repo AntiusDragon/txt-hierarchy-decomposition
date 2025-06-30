@@ -1,0 +1,1697 @@
+﻿\\serveris\Apskaita\laboratorija\betonas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas
+\\serveris\Apskaita\laboratorija\gb
+\\serveris\Apskaita\laboratorija\laborantas
+\\serveris\Apskaita\laboratorija\laboratorine iranga
+\\serveris\Apskaita\laboratorija\projektai
+\\serveris\Apskaita\laboratorija\tiekimas
+\\serveris\Apskaita\laboratorija\Gelmesta sertifikatas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis
+\\serveris\Apskaita\laboratorija\betonas\Betono  standartas, sertifikatas
+\\serveris\Apskaita\laboratorija\betonas\info
+\\serveris\Apskaita\laboratorija\betonas\kubeliu bandymas
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems
+\\serveris\Apskaita\laboratorija\betonas\Testlita kainos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2009 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2010 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2011 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2012 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2013 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2014 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2015 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2016 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2017 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2018 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2019 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2020 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\Betono deklaracija
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\info
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\technologinis aprasymas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2009 m\bandymu protokolas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2010 m\Alzida protokolai 2010
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2010 m\bandymo protokolai  is alzidos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2010 m\sertifikavimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2010 m\sertifikavimas\sutartys
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2010 m\sertifikavimas\sutartys\lic sutartis
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2011 m\Alzida protokolai 2011
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2012 m\Alzida protokolai 2012
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2013 m\Alzida protokolai 2013
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2013 m\naujos deklaracijos pvz
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2013 m\nuostatos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2013 m\pastabos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2014 m\Alzida protokolai 2014
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2014 m\asakymas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2014 m\laboratorija
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2014 m\vertinimo ataskaita 20141021
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2014 m\laboratorija\duomenys is musu
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2014 m\laboratorija\duomenys is musu\C35_45 XF4 bandymai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2015 m\Alzida protokolai 2015
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2015 m\apie cementus
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2015 m\atsakymas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2015 m\vertinimo ataskaita 20151209
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2016 m\Alzida protokolai 2016
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2016 m\atsakymas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2016 m\paraiska
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2016 m\paraiska\nauja
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2016 m\paraiska\sena
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2016 m\paraiska\nauja\baigta
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2017 m\KBC protokolai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2017 m\sutartys
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2018 m\aruodų žymėjimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2018 m\is objekto
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2018 m\KBC pakeite pavadinima i Testlita
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2018 m\nuotraukos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2018 m\Nuotraukos ataskaitai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2018 m\pataisymai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2018 m\Sertifikato patvirtinimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2018 m\Testlita protokolai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2018 m\is objekto\kubeliai is objekto
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2018 m\pataisymai\aruodų žymėjimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2019 m\ataskaitai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2019 m\neatitikčių įgyvendinimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2019 m\Paraiska
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2019 m\SERTIFIKATAS iki 2022 10 20
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2019 m\sertifikato keitimas 2019 10 28
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2019 m\sertifikato patvirtinimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2019 m\Testlita protokolai s1skaitos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2019 m\Testlita protokolai s1skaitos\Įtraukto oro matuoklio nuoma
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2020 m\Testlita protokolai saskaitos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2020 m\Testlita protokolai saskaitos\atrankos aktai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2020 m\Testlita protokolai saskaitos\bandymu protokolai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\atrankos aktai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Neatitikčių įgyvendinimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Paraiška
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Testlita protokolai naujas adresas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\atrankos aktai\2021 08 11
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\atrankos aktai\C25_30  S4
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\atrankos aktai\C30_37
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\atrankos aktai\C45_55
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\atrankos aktai\info
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\atrankos aktai\Laboratorija Jankiškių g. 39, Vilnius
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\atrankos aktai\C30_37\C 30_37 S3
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\atrankos aktai\C45_55\C45_55 S3
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\atrankos aktai\C45_55\C45_55 S4
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Neatitikčių įgyvendinimas\chemijos deklaracijos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Paraiška\info dėl kubelio kiekio
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Paraiška\sertifikato projektas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Paraiška\Siųstos ataskaitos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Paraiška\Sutartis
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Testlita protokolai naujas adresas\2021 08 30
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Testlita protokolai naujas adresas\sertifikatui
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Testlita protokolai naujas adresas\sertifikatui\30_37 F300 S3 laukiama
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Testlita protokolai naujas adresas\sertifikatui\Bandymų protokolai 2022 02 22
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Testlita protokolai naujas adresas\sertifikatui\SPSC Toleikienė Dalia dabar
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Testlita protokolai naujas adresas\sertifikatui\sąskaitos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2021 m\Testlita protokolai naujas adresas\sertifikatui\sąskaitos\2022 04 14
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m\2022.04.14 Sutartis betono klasių papildymas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m\atrankos aktai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m\laiškas dėl suvirinimo koordinatoriaus
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m\Neatitikčių įgyvendinimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m\receptūra
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m\sutartis 2022
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m\Testlita protokolai naujas adresas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m\Vertinimo ataskaita
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m\Neatitikčių įgyvendinimas\Išsiuntimui
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m\sutartis 2022\sąskaita
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2022 m\Testlita protokolai naujas adresas\Mūsų palyginimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\auditas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\ESD
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\Palyginimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\Receptai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\auditas\atsakymas į ataskaitą
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.23 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.27  C20_25-XC1,XC3(LT) -Cl 0,2- Dmax16 S3
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.07.21 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S3
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.12 C30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4 su šalčiu
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.10.17  35_45-XC4,XD3,XF4-F300-W8-Cl 0,2- Dmax16 S3 su šalčiu
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\info dėl bandymų
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\ĮMIRKIO BANDYMAI
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.23 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4\Atrankos aktas GELMESTA C30_37 S4
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.23 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4\protokolas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.23 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4\receptas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.23 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4\sąskaita
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.23 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4\protokolas\laukiam atsparumo šalčiui
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.23 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4\protokolas\laukiam atsparumo šalčiui\šaltis F200 neatlaikė
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.27  C20_25-XC1,XC3(LT) -Cl 0,2- Dmax16 S3\Atrankos aktas GELMESTA C20_25 S3
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.27  C20_25-XC1,XC3(LT) -Cl 0,2- Dmax16 S3\info
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.27  C20_25-XC1,XC3(LT) -Cl 0,2- Dmax16 S3\Protokolas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.27  C20_25-XC1,XC3(LT) -Cl 0,2- Dmax16 S3\receptūra
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.27  C20_25-XC1,XC3(LT) -Cl 0,2- Dmax16 S3\sąskaita
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.27  C20_25-XC1,XC3(LT) -Cl 0,2- Dmax16 S3\info\blogas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.06.27  C20_25-XC1,XC3(LT) -Cl 0,2- Dmax16 S3\receptūra\info
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.07.21 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S3\Atrankos aktas GELMESTA C30_37 S3
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.07.21 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S3\info
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.07.21 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S3\protokolas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.07.21 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S3\receptas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.07.21 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S3\sąskaita
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.07.21 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S3\info\blogas su S4
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.07.21 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S3\protokolas\info
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.07.21 30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S3\protokolas\info\atsparumo šalčiui nebus
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.12 C30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4 su šalčiu\Atrankos aktas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.12 C30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4 su šalčiu\protokolas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.12 C30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4 su šalčiu\receptūra
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.12 C30_37-XC4,XA1,XF3-F200-W6-Cl 0,2- Dmax16 S4 su šalčiu\sąskaita
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\Atrankos aktas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\Protokolas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\receptūra
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\sąskaita
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\Atrankos aktas\2023.09.20
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\Atrankos aktas\Vežant kubelius dėl įmirkio kur reikalingas atsparumas sulfatams (XA) atrankos akte nurodyti vc santykį, koks cementas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\Atrankos aktas\2023.09.20\info
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\Protokolas\atsparumas šalčiui
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\Protokolas\Gniuždymas, nelaidumas vandeniui, vandens absorbcija
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\Protokolas\atsparumas šalčiui\Bandymų protokolas pakoreguotas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\receptūra\2023.09.20 pataisyta sudėtis
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\receptūra\info
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.09.20 30_37-XC2,XF3, XA2-Dmax16 S1 pilnas\receptūra\info\2023.09.20 ne ta sudėtis
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.10.17  35_45-XC4,XD3,XF4-F300-W8-Cl 0,2- Dmax16 S3 su šalčiu\protokolas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.10.17  35_45-XC4,XD3,XF4-F300-W8-Cl 0,2- Dmax16 S3 su šalčiu\receptas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.10.17  35_45-XC4,XD3,XF4-F300-W8-Cl 0,2- Dmax16 S3 su šalčiu\sąskaita be šalčio bandymo
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.10.17  35_45-XC4,XD3,XF4-F300-W8-Cl 0,2- Dmax16 S3 su šalčiu\šalčio protokolas ir sąskaita 2024.05.31
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.10.17  35_45-XC4,XD3,XF4-F300-W8-Cl 0,2- Dmax16 S3 su šalčiu\protokolas\blogai užrašytas betonas protokole V1
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\2023.10.17  35_45-XC4,XD3,XF4-F300-W8-Cl 0,2- Dmax16 S3 su šalčiu\protokolas\pataisytas protokolas V2
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\ĮMIRKIO BANDYMAI\2023.06.30 30_37-XC2,XF3, XA2-Dmax16 S1
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\ĮMIRKIO BANDYMAI\2023.06.30 30_37-XC2,XF3, XA2-Dmax16 S1\Atrankos aktas GELMESTA C30_37 S1 13.50
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\ĮMIRKIO BANDYMAI\2023.06.30 30_37-XC2,XF3, XA2-Dmax16 S1\protokolas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\ĮMIRKIO BANDYMAI\2023.06.30 30_37-XC2,XF3, XA2-Dmax16 S1\receptūra
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2023 m\bandymai\ĮMIRKIO BANDYMAI\2023.06.30 30_37-XC2,XF3, XA2-Dmax16 S1\Atrankos aktas GELMESTA C30_37 S1 13.50\blogas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\auditas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\ESD
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\išsiųsta auditorei
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Receptai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.01.19 cemento bandymai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.02.12 Testlita naujas atrankos aktas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.04.17 35_45-XC4,XD3,XS3, XF4,XA1,XM2-F300(LT)-W12-Cl 0,2- Dmax16 S1 keičiam granito skaldą į dolomito skaldą
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.06.04 C30_37-X0_XC4_Cl.0,2_Dmax16_S3 be šalčio
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.07.05 20_25-X0-XC1,XC3(LT)-Cl 0,2- Dmax16 S3
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\atsparumui sulfatams
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\dilumo bandymai XM1-XM3 poveikio klasėms
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\smėlio bandymai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\į atrankos aktą įrašyti temperatūrą
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.04.17 35_45-XC4,XD3,XS3, XF4,XA1,XM2-F300(LT)-W12-Cl 0,2- Dmax16 S1 keičiam granito skaldą į dolomito skaldą\2024 04 05 auditorės ats
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.04.17 35_45-XC4,XD3,XS3, XF4,XA1,XM2-F300(LT)-W12-Cl 0,2- Dmax16 S1 keičiam granito skaldą į dolomito skaldą\Atrankos aktas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.04.17 35_45-XC4,XD3,XS3, XF4,XA1,XM2-F300(LT)-W12-Cl 0,2- Dmax16 S1 keičiam granito skaldą į dolomito skaldą\info kubelių gamybai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.04.17 35_45-XC4,XD3,XS3, XF4,XA1,XM2-F300(LT)-W12-Cl 0,2- Dmax16 S1 keičiam granito skaldą į dolomito skaldą\Nepraėjo šalčio bandymo
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.04.17 35_45-XC4,XD3,XS3, XF4,XA1,XM2-F300(LT)-W12-Cl 0,2- Dmax16 S1 keičiam granito skaldą į dolomito skaldą\Protokolai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.04.17 35_45-XC4,XD3,XS3, XF4,XA1,XM2-F300(LT)-W12-Cl 0,2- Dmax16 S1 keičiam granito skaldą į dolomito skaldą\receptas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.04.17 35_45-XC4,XD3,XS3, XF4,XA1,XM2-F300(LT)-W12-Cl 0,2- Dmax16 S1 keičiam granito skaldą į dolomito skaldą\Protokolai\sąskaita
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.04.17 35_45-XC4,XD3,XS3, XF4,XA1,XM2-F300(LT)-W12-Cl 0,2- Dmax16 S1 keičiam granito skaldą į dolomito skaldą\Protokolai\šalčio, nutrauktas bandymas po 200 ciklų
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.06.04 C30_37-X0_XC4_Cl.0,2_Dmax16_S3 be šalčio\Atrankos aktas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.06.04 C30_37-X0_XC4_Cl.0,2_Dmax16_S3 be šalčio\Protokolas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.06.04 C30_37-X0_XC4_Cl.0,2_Dmax16_S3 be šalčio\receptas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.06.04 C30_37-X0_XC4_Cl.0,2_Dmax16_S3 be šalčio\sąskaita
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.07.05 20_25-X0-XC1,XC3(LT)-Cl 0,2- Dmax16 S3\Atrankos aktas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.07.05 20_25-X0-XC1,XC3(LT)-Cl 0,2- Dmax16 S3\Protokolas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\2024.07.05 20_25-X0-XC1,XC3(LT)-Cl 0,2- Dmax16 S3\Receptas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\atsparumui sulfatams\KTU
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\dilumo bandymai XM1-XM3 poveikio klasėms\info laboratorijos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\dilumo bandymai XM1-XM3 poveikio klasėms\iš auditorės
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\dilumo bandymai XM1-XM3 poveikio klasėms\info laboratorijos\užklausa
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\bandymai\smėlio bandymai\smėlio deklaracijos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\išsiųsta auditorei\Palyginimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\Smėlbetonis
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\atsparumo šalčiui bandymai užtrunka
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\C 35_45 papildymas XS3 ir XA1
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\dėl bandymo tirpalo atsparumo šalčiui
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\dėl XM1-XM3 papildymo
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\C 35_45 papildymas XS3 ir XA1\2024 02 08 gautas sertifikato projektas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\C 35_45 papildymas XS3 ir XA1\2024 02 09 išsiųstos betono sudėtys SPSC
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\C 35_45 papildymas XS3 ir XA1\New folder
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\C 35_45 papildymas XS3 ir XA1\sąskaita
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\C 35_45 papildymas XS3 ir XA1\2024 02 08 gautas sertifikato projektas\pasirašymui
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\C 35_45 papildymas XS3 ir XA1\2024 02 08 gautas sertifikato projektas\pasirašymui\pasirašyta
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\dėl bandymo tirpalo atsparumo šalčiui\auditorės atsakymas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2024 m\Sertifikato papildymas\info dėl bandymų\dėl bandymo tirpalo atsparumo šalčiui\laboratorijos ats
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\bandymai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\bandymai\2025 06 13 išsiųsta info betono m. dėl kubelių į laboratoriją
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\bandymai\2025 06 25 gauta info C35_45 su šalčiu
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\bandymai\2025 06 27 gauta info C30_37
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\2025 01 23 C30_37_XC4_XD2_XS1_XF4_XA1_F300(LT)_W12(LT)_Cl0,2_Dmax16_S1
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\2025 01 23 poreikis
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\2025 01 24 auditorės atsakymas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\2025 02 13 auditorės patikslinimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\2025 02 14 gauti betono receptai iš betono m
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\2025 02 25 gauta ko reikia sertifikato papildymui
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\2025 04 18 gauta info pagaminti kubeliai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\2025 05 22 gauta info pagaminti kubeliai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\info apie betoną
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\Paraiška
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\Pradinių bandymų ataskaitos
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\2025 01 23 C30_37_XC4_XD2_XS1_XF4_XA1_F300(LT)_W12(LT)_Cl0,2_Dmax16_S1\kubelių gamyba
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\2025 m\Sertifikato papildymas\2025 02 14 gauti betono receptai iš betono m\2025 02 17 išsiųsta auditorei
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\Betono deklaracija\2022
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\Betono deklaracija\Donato vertimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\Betono deklaracija\mokymai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\Betono deklaracija\nuoroda į ES
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\Betono deklaracija\pavyzdžiai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\info\aruodų žymėjimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\info\atestavimo nuostatai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\info\betonavimas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\info\Betono projektavimas (22)
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\info\Betono savybių sudėties apribojimai
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\info\galerija
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\info\kubelių vežimas į naprikausomą laboratoriją
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\info\aruodų žymėjimas\archyvas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\info\kubelių vežimas į naprikausomą laboratoriją\pradiniams bandymams
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\technologinis aprasymas\betono gamybos vadovas
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\technologinis aprasymas\New folder
+\\serveris\Apskaita\laboratorija\betonas\atitiktis\technologinis aprasymas\betono gamybos vadovas\seni
+\\serveris\Apskaita\laboratorija\betonas\Betono  standartas, sertifikatas\Betono sertifikatas 2022-04-14
+\\serveris\Apskaita\laboratorija\betonas\Betono  standartas, sertifikatas\Betono sertifikatas 2024-02-09
+\\serveris\Apskaita\laboratorija\betonas\Betono  standartas, sertifikatas\info dėl CEM 1 42,5R
+\\serveris\Apskaita\laboratorija\betonas\Betono  standartas, sertifikatas\Sertifikato papildymas
+\\serveris\Apskaita\laboratorija\betonas\info\Auditui
+\\serveris\Apskaita\laboratorija\betonas\info\Betono stipris po 7 parų
+\\serveris\Apskaita\laboratorija\betonas\info\kontaktai
+\\serveris\Apskaita\laboratorija\betonas\info\sandelys seni
+\\serveris\Apskaita\laboratorija\betonas\info\Tech duomenų lapas pvz
+\\serveris\Apskaita\laboratorija\betonas\info\Auditui\spausdinti
+\\serveris\Apskaita\laboratorija\betonas\info\Tech duomenų lapas pvz\daromi tik standartiniams produktams, betonui ne
+\\serveris\Apskaita\laboratorija\betonas\kubeliu bandymas\sandėlys iki 2025 04 30
+\\serveris\Apskaita\laboratorija\betonas\kubeliu bandymas\Seni
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2023.07.11 UAB Įžvalga
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2023.08.04 UAB Įžvalga
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.01.22 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.01.24 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.02.13 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.02.22 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.03.07 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.03.27 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.04.16 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.08.20 UAB Įžvalga
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.09.16 menard geotechnika(Gevalda)
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.10.15  menard geotechnika(Gevalda)
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.11.26 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.12.03 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.12.09 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2024.12.16 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2025.01.08 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2025.01.14 Vilniaus rentinys 1
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2025.01.14 Vilniaus rentinys 2
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2025.02.05 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2025.02.18 LEONHARD WEISS
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2025.03.19 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2025.03.21 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2025.05.23 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\2025.06.25 Vilniaus rentinys
+\\serveris\Apskaita\laboratorija\betonas\musu bandymu protokolai issiusti kitiems\C35_45
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\info
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Pastatai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\personalas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Sutartys
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\zaliava
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Gamybos kontrolės sistema
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\info
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Ivairus
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Gamybos kontrolės sistema\atitiktis
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Gamybos kontrolės sistema\Gamybos technol procesų registracija
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Gamybos kontrolės sistema\Realizacija_projektai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Gamybos kontrolės sistema\reikalavimai gaminiui
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Gamybos kontrolės sistema\Žaliava
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Gamybos kontrolės sistema\Gamybos technol procesų registracija\Procesas-maketas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Gamybos kontrolės sistema\Žaliava\Sertifikatai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Gamybos kontrolės sistema\Žaliava\Važtaraščiai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Gamybos kontrolės sistema\Žaliava\Sertifikatai\BASF
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Gamybos kontrolės sistema\Žaliava\Sertifikatai\BEWI
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Ivairus\KONKURENTU DEKLARACIJOS
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Ivairus\KONKURENTU DEKLARACIJOS\EKSPLOATACINIU SAVYBIU
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\gamybos kontrole\Ivairus\KONKURENTU DEKLARACIJOS\EKSPLOATACINIŲ SAVYBIŲ PASTOVUMO
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Dokumentų maketai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Ivairus
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Dokumentų maketai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Draft
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Teisiniai reglamentai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Dokumentų maketai\Lab pavyzdžiai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Dokumentų maketai\Lipdukai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Dokumentų maketai\pvz
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Dokumentų maketai\Tyrimų procedūros
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Draft\Bylų nugarėlės
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Draft\Ivairus
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Draft\Nuotrauku saugykla
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Draft\Ivairus\KONKURENTU DEKLARACIJOS
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Draft\Ivairus\KONKURENTU DEKLARACIJOS\EKSPLOATACINIU SAVYBIU
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Draft\Ivairus\KONKURENTU DEKLARACIJOS\EKSPLOATACINIŲ SAVYBIŲ PASTOVUMO
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Draft\Nuotrauku saugykla\Forma detal
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Draft\Nuotrauku saugykla\Išpūtimo detal
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Draft\Nuotrauku saugykla\Jėgainė detal
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Gamybiniai įrenginiai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Kokybės kontrolės priemonės
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Gamybiniai įrenginiai\EPS įranga FOTO
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Gamybiniai įrenginiai\EPS įranga FOTO\Bloko forma
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Gamybiniai įrenginiai\EPS įranga FOTO\Buffer
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Gamybiniai įrenginiai\EPS įranga FOTO\Katilinė
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Gamybiniai įrenginiai\EPS įranga FOTO\Kompresorinė
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Gamybiniai įrenginiai\EPS įranga FOTO\Pjovimo
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Gamybiniai įrenginiai\EPS įranga FOTO\Žaliavos_išpūtėjas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Gamybiniai įrenginiai\EPS įranga FOTO\Pjovimo\sonu frezavimo nr10
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Gamybiniai įrenginiai\EPS įranga FOTO\Pjovimo\sonu frezavimo nr10\foto
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Gamybiniai įrenginiai\EPS įranga FOTO\Pjovimo\sonu frezavimo nr10\instrukcijos
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Kokybės kontrolės priemonės\Paraiškos
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Kokybės kontrolės priemonės\Paraiškos\Hunan Zhenhua Analysis Instrument Co., Ltd
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Kokybės kontrolės priemonės\Paraiškos\Instron
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Kokybės kontrolės priemonės\Paraiškos\Jinan East Testing Machine Co
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Kokybės kontrolės priemonės\Paraiškos\Kemek
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Kokybės kontrolės priemonės\Paraiškos\Labochema_Mecmesin
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Kokybės kontrolės priemonės\Paraiškos\Moris
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Kokybės kontrolės priemonės\Paraiškos\UNIMAT
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Kokybės kontrolės priemonės\Paraiškos\Vildoma_Ahlborn
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\EPS Gamybos priemonių sąrašas\Kokybės kontrolės priemonės\Paraiškos\Vildoma_Ahlborn\Almemo
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema\Gaminio informacija
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema\Gamybos technol procesų registracija
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema\Informaciniai stendai gamybai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema\Instrukcijos
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema\Žaliava
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema\Gaminio informacija\KONKURENTU DEKLARACIJOS
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema\Gaminio informacija\Musų
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema\Gaminio informacija\Realizacija_projektai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema\Gaminio informacija\KONKURENTU DEKLARACIJOS\EKSPLOATACINIU SAVYBIU
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema\Gaminio informacija\KONKURENTU DEKLARACIJOS\EKSPLOATACINIŲ SAVYBIŲ PASTOVUMO
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Gamybos kontrolės sistema\Instrukcijos\Įrenginio vartotojo insrukcija
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Teisiniai reglamentai\Metrtologiniai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Teisiniai reglamentai\Paraiška_klausimynas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Teisiniai reglamentai\Sertifikavimo istaigos
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Teisiniai reglamentai\Standatrai_EN
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Teisiniai reglamentai\Statinių patalpų
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Teisiniai reglamentai\Metrtologiniai\Matavimo priemonių
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Apibendrinimas\Teisiniai reglamentai\Standatrai_EN\Standartai ivairus
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Dokumentų maketai\Lab pavyzdžiai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Dokumentų maketai\Lipdukai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Dokumentų maketai\Tyrimų procedūros
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Dokumentų maketai\Lipdukai\Katilu lipdukai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Ivairus\Asmenin
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Ivairus\Dokumentų maketai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Ivairus\Asmenin\Pazymos
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Ivairus\Dokumentų maketai\Lab pavyzdžiai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Ivairus\Dokumentų maketai\Lipdukai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Ivairus\Dokumentų maketai\Tyrimų procedūros
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Kita\Ivairus\Dokumentų maketai\Lipdukai\Katilu lipdukai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\bandymu ataskaita
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\laboratorija
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Metrtologiniai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Paraiška_klausimynas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Standatrai_EN
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Statinių patalpų
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Metrtologiniai\Matavimo priemonių
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Metrtologiniai\STD vertimai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\Bandymų protokolai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\Gaisriniu tyrimu centras
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\KTU Lab
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\Statybos produkcijos sert centr
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\VGTU Lab
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\Bandymų protokolai\Degumo nustatymo tyrimas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\Bandymų protokolai\VGTU
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\Gaisriniu tyrimu centras\rezultatai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\Gaisriniu tyrimu centras\uzsakymas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\Gaisriniu tyrimu centras\uzsakymas\Išankstinio apmok sutartis
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\Gaisriniu tyrimu centras\uzsakymas\Laiškai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\Gaisriniu tyrimu centras\uzsakymas\Paraiškų deklaracijų formos
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Sertifikavimo istaigos\Gaisriniu tyrimu centras\uzsakymas\Skanuoti_2015.06
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\laboratorija\Teisiniai reglamentai\Standatrai_EN\Standartai ivairus
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Pastatai\katiline
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Pastatai\Projektas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Pastatai\sandelys
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Pastatai\signalizacija
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\personalas\medziaga mokymui
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\personalas\medziaga mokymui\kvm
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\personalas\medziaga mokymui\Mokymo medziaga
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\zaliava
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\konkurentu etiketes
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS\deklaracijos 20170622
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS\EKSPLOATACINIU SAVYBIU
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS\EKSPLOATACINIŲ SAVYBIŲ PASTOVUMO
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS\KONKURENTU DEKLARACIJOS
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS\deklaracijos 20170622\100
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS\deklaracijos 20170622\100N
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS\deklaracijos 20170622\70
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS\deklaracijos 20170622\70N
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS\deklaracijos 20170622\80N
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS\KONKURENTU DEKLARACIJOS\EKSPLOATACINIU SAVYBIU
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\KONKURENTU DEKLARACIJOS\KONKURENTU DEKLARACIJOS\EKSPLOATACINIŲ SAVYBIŲ PASTOVUMO
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\konkurentu etiketes\etna
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\EPS EN 2022 11 18
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\EPS EN 2023 01 27
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\EPS EN 2024 01 19
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\EPS EN 2025 01 31
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\EPS etiketės 2022.12.02
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\EPS etiketės lipdukai 2022 11 15
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\granulėms
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\senos deklaracijos
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\senos etiketės
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\zaliavai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\EPS EN 2023 01 27\Pasirašytos 2023
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\EPS EN 2024 01 19\Pasirašytos 2024 01
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\EPS EN 2025 01 31\Pasirašytos 2025
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\2017
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\2019
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\2020
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\2021
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\Pasirašyti
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\2017\Pasirašyti
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\2019\Pasirašyti
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\2021\EN
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\2021\LT
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\Pasirašyti\2017
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\Pasirašyti\2021
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\Pasirašyti\2022
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\Pasirašyti\Pasirašytos 2024 01
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\Pasirašyti\2021\EN
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\PDF\Pasirašyti\2021\LT
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\senos deklaracijos\EN
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\senos deklaracijos\EPS EN
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\deklaracija\Musų\senos deklaracijos\Šablonai deklaracijoms
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 gaisriniai tyrimai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 metai EPS 80 termoizoliacija
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2019 12 termoizoliacines
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2021 10 termoizoliacinės
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\Paraiška_klausimynas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 gaisriniai tyrimai\Gaisriniu tyrimu centras nuo EPS 50_EPS150
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 gaisriniai tyrimai\Gaisriniu tyrimu centras nuo EPS 50_EPS150\uzsakymas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 gaisriniai tyrimai\Gaisriniu tyrimu centras nuo EPS 50_EPS150\uzsakymas\Išankstinio apmok sutartis
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 gaisriniai tyrimai\Gaisriniu tyrimu centras nuo EPS 50_EPS150\uzsakymas\Laiškai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 gaisriniai tyrimai\Gaisriniu tyrimu centras nuo EPS 50_EPS150\uzsakymas\Paraiškų deklaracijų formos
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 gaisriniai tyrimai\Gaisriniu tyrimu centras nuo EPS 50_EPS150\uzsakymas\Skanuoti_2015.06
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 metai EPS 80 termoizoliacija\pasiulymai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 metai EPS 80 termoizoliacija\pirkimas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 metai EPS 80 termoizoliacija\Sertifikavimo istaigos
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 metai EPS 80 termoizoliacija\pasiulymai\KTU Lab
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 metai EPS 80 termoizoliacija\pasiulymai\VGTU Lab
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 metai EPS 80 termoizoliacija\pirkimas\VGTU
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 metai EPS 80 termoizoliacija\Sertifikavimo istaigos\KTU Lab
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 metai EPS 80 termoizoliacija\Sertifikavimo istaigos\Statybos produkcijos sert centr
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2015 metai EPS 80 termoizoliacija\Sertifikavimo istaigos\VGTU Lab
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2019 12 termoizoliacines\info
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2019 12 termoizoliacines\uzklausimai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2019 12 termoizoliacines\Vykdomi bandymai
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2019 12 termoizoliacines\uzklausimai\KTU
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2019 12 termoizoliacines\uzklausimai\Testlita
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2019 12 termoizoliacines\uzklausimai\VGTU
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2019 12 termoizoliacines\Vykdomi bandymai\atliktu darbu aktas
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2019 12 termoizoliacines\Vykdomi bandymai\VGTU
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2019 12 termoizoliacines\Vykdomi bandymai\VGTU\Naujas kontaktas Saulius Vaitkus
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\pradinio tipo bandymai\2019 12 termoizoliacines\Vykdomi bandymai\VGTU\Pokalbis dėl matmenu
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Produkcija\zaliava\info
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Sutartys\VGTU
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\Sutartys\VGTU\VGTU pasirasyta
+\\serveris\Apskaita\laboratorija\EPS sertifikavimas\zaliava\info
+\\serveris\Apskaita\laboratorija\gb\2017 aktualūs sertifikatai
+\\serveris\Apskaita\laboratorija\gb\2023 sertifikatai
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas
+\\serveris\Apskaita\laboratorija\gb\atitiktis
+\\serveris\Apskaita\laboratorija\gb\Atsekamumas pagal armatūrinį plieną
+\\serveris\Apskaita\laboratorija\gb\Auditai
+\\serveris\Apskaita\laboratorija\gb\bandymai
+\\serveris\Apskaita\laboratorija\gb\BANDYMO ŽURNALAS  prie gaminio
+\\serveris\Apskaita\laboratorija\gb\darbai
+\\serveris\Apskaita\laboratorija\gb\deklaracija
+\\serveris\Apskaita\laboratorija\gb\GB tolerancijos
+\\serveris\Apskaita\laboratorija\gb\info dėl užsakovų reikalavimų
+\\serveris\Apskaita\laboratorija\gb\ISO SERTIFIKATAI
+\\serveris\Apskaita\laboratorija\gb\Neatitikties procedūra
+\\serveris\Apskaita\laboratorija\gb\sandeliavimas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI
+\\serveris\Apskaita\laboratorija\gb\Sertifikatų galiojimas
+\\serveris\Apskaita\laboratorija\gb\Standartai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys
+\\serveris\Apskaita\laboratorija\gb\Įsakymai, įgaliojimai
+\\serveris\Apskaita\laboratorija\gb\Įstatymai
+\\serveris\Apskaita\laboratorija\gb\2023 sertifikatai\aktualūs sertifikatai
+\\serveris\Apskaita\laboratorija\gb\2023 sertifikatai\Iš Tilstos
+\\serveris\Apskaita\laboratorija\gb\2023 sertifikatai\kitų gamintojų sertifikatai
+\\serveris\Apskaita\laboratorija\gb\2023 sertifikatai\Litgrid tech reikalavimai
+\\serveris\Apskaita\laboratorija\gb\2023 sertifikatai\pastabos koregavimui
+\\serveris\Apskaita\laboratorija\gb\2023 sertifikatai\kitų gamintojų sertifikatai\laiptai
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 19 gauta pokalbis su SPSC
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 19 gauta SSVA išaiškinimas
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 19 siųsta_tuvlita
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 20 gauta pasiūlymas Euromatas
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 20 gauta tuvlita
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 25 siųsta I. Barauskui
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 26 darbinis
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 26 gauta kaina 6 vnt. 3400 eur
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 26 siųsta 6 vnt kaina
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 27 dokumentai auditui
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 27 gauta sutartis_paraiška
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 30 gauta pakoreguota sutartis
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 26 darbinis\2025 06 26 paraiška
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 26 darbinis\2025 06 26 sutartis
+\\serveris\Apskaita\laboratorija\gb\2025 06 19 GB persertifikavimas\2025 06 26 darbinis\2025 06 30 sutartis pasirašymui
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2022.10.01 Inspekta GB sertifikavimas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.04.15 SPSC pasiūlymas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.07.10 Inspekta auditas dėl naujų sertifikatų
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.11.27 Inspekta auditas dėl senų sertifikatų
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.12.12 Inspekta keičia pav. į TICPRO,UAB
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2025 06 30 Euromatas auditas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Darbuotojų mokymai
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Sutartys
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2017
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2019
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2020
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2021
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2022
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\Klausimynas atestacijai
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\Sutartys
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2017\Inspectai issiusta
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2017\paraiskos pateikimas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2017\Inspectai issiusta\205. Suvirinimo įrangos patikra
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2017\Inspectai issiusta\306. Deklaracijų pvz
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2020\Issiuntimui
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2020\termometro foto
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2020\Vertinimo ataskaitos
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2020\Issiuntimui\betono chemijos deklaracijos, saugos lapai
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\2022\Irmantas Barauskas Kiwa Inspecta
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2017.05.16-2022.09.30 Kiwa Inspecta GB sertifikavimas\Sutartys\2022.08.19 pranešimas apie sutarties nutraukimą
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2022.10.01 Inspekta GB sertifikavimas\2022.08.23 išsiųsta paraiška GB sertifikavimui
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2022.10.01 Inspekta GB sertifikavimas\auditoriai
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2022.10.01 Inspekta GB sertifikavimas\vertinimo ataskaitos
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2022.10.01 Inspekta GB sertifikavimas\2022.08.23 išsiųsta paraiška GB sertifikavimui\Šablonai
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2022.10.01 Inspekta GB sertifikavimas\auditoriai\Ieva Aškelėnaitė Inspekta
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2022.10.01 Inspekta GB sertifikavimas\auditoriai\Žilvinas Kungys Inspekta
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2022.10.01 Inspekta GB sertifikavimas\auditoriai\Žilvinas Kungys Inspekta\naujas nr. 867048816
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\Atsakymas į ataskaitą 2023
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\išsiųsta auditorei
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\Neatitikčių taisymas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\Vertinimo ataskaitos
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\Atsakymas į ataskaitą 2023\2024.02.26 papildomai išsiųsta
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\išsiųsta auditorei\2023.11.22 16.05 gauta prašo brėžinių
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\išsiųsta auditorei\2023.11.23 08.41 isiųstas brėžinys  netiko
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\išsiųsta auditorei\2023.11.23 11.25 išsiųstas kitas brėžinys netiko
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\išsiųsta auditorei\2023.11.30 išsiųstas 3-čias brėžinys ir suvirinimo SPA
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\išsiųsta auditorei\2023.11.30 išsiųstas 3-čias brėžinys ir suvirinimo SPA\gautas iš Jolantos brėžinys
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\Neatitikčių taisymas\202. Neatliekami armatūros tinklųkarkasų bei įdėtinių detalių matavimų įrašai
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\Neatitikčių taisymas\202. Neatliekami betono apsauginio sluoksnio matavimų įrašai
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\Neatitikčių taisymas\302. Neatliekami įrašai, kai yra atliekamas atšokimo rodiklio nustatymo bandymas (su Šmidto plaktuku)
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\Neatitikčių taisymas\901. Neužtikrinamas gamybos proceso atsekamumas pagal armatūrinį plieną ir naudotas suvirinimo proceso procedūras
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\Vertinimo ataskaitos\2023 11 22
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2023.11.23 Inspekta GB auditas\Vertinimo ataskaitos\2024 02 26 po trūkumų pašalinimo
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.04.15 SPSC pasiūlymas\2024.04.16
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.04.15 SPSC pasiūlymas\2024.04.17
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.07.10 Inspekta auditas dėl naujų sertifikatų\sąskaita
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.07.10 Inspekta auditas dėl naujų sertifikatų\vertinimo ataskaitos
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.11.27 Inspekta auditas dėl senų sertifikatų\2024.11.27 išsiųsta auditorei
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.11.27 Inspekta auditas dėl senų sertifikatų\sąskaita
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.11.27 Inspekta auditas dėl senų sertifikatų\Vertinimo ataskaitos
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.11.27 Inspekta auditas dėl senų sertifikatų\Šmidto plaktuko reikšmės nustatymas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.11.27 Inspekta auditas dėl senų sertifikatų\Šmidto plaktuko reikšmės nustatymas\instrukcija
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2024.11.27 Inspekta auditas dėl senų sertifikatų\Šmidto plaktuko reikšmės nustatymas\Įrašai Šmidto plaktuko auditorės atsakymas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2025 06 30 Euromatas auditas\2025 06 27 gauta datos patvirtinimas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2025 06 30 Euromatas auditas\2025 06 27 gauta paraiškos patvirtinimas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2025 06 30 Euromatas auditas\2025 06 27 siųsta kainos patvirtinimas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2025 06 30 Euromatas auditas\2025 06 27 siųsta paraiška
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2025 06 30 Euromatas auditas\2025 06 27 siųsta tech kortelės_šablonai
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2025 06 30 Euromatas auditas\2025 06 30 audito planas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2025 06 30 Euromatas auditas\2025 06 30 sutarties derinimas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\2025 06 30 Euromatas auditas\2025 06 30 sutarties derinimas\2025 06 30 gauta sutarties pasiūlymas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Darbuotojų mokymai\2024 11 21 betono maišymo operatorė
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Darbuotojų mokymai\2024 11 21 betonuotojai
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Sutartys\2022 08 24 sutartis su UAB Inspekta
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Sutartys\2023 07 18 standarto paruošimas energetinio ūkio gaminiams
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Sutartys\2024 03 07 sutartis su UAB Inspekta
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Sutartys\2022 08 24 sutartis su UAB Inspekta\2022.08.25 Sutarties derinimas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Sutartys\2024 03 07 sutartis su UAB Inspekta\Sutartis derinimui
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Sutartys\2024 03 07 sutartis su UAB Inspekta\Sutartis derinimui\Pasirašymui
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Sutartys\2024 03 07 sutartis su UAB Inspekta\Sutartis derinimui\susirašinėjimas
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Sutartys\2024 03 07 sutartis su UAB Inspekta\Sutartis derinimui\Pasirašymui\pasirašyta Donato
+\\serveris\Apskaita\laboratorija\gb\atitiktis\Sutartys\2024 03 07 sutartis su UAB Inspekta\Sutartis derinimui\Pasirašymui\pasirašyta Inspektos
+\\serveris\Apskaita\laboratorija\gb\Auditai\2025 06 30 TUV GB auditas is uzsakovo
+\\serveris\Apskaita\laboratorija\gb\Auditai\2025 06 30 TUV GB auditas is uzsakovo\2025 06 30 gauta auito planas
+\\serveris\Apskaita\laboratorija\gb\bandymai\2024 03 05 Laiptų slidumo
+\\serveris\Apskaita\laboratorija\gb\bandymai\2024 11 Slidumo šulinių liukų, perėjimo elementų dangčių ir kabelių kanalų dangčių
+\\serveris\Apskaita\laboratorija\gb\bandymai\2024 11 Slidumo šulinių liukų, perėjimo elementų dangčių ir kabelių kanalų dangčių\2024.11.29 BANDYMŲ PROTOKOLAS
+\\serveris\Apskaita\laboratorija\gb\bandymai\2024 11 Slidumo šulinių liukų, perėjimo elementų dangčių ir kabelių kanalų dangčių\bandymų kainos
+\\serveris\Apskaita\laboratorija\gb\bandymai\2024 11 Slidumo šulinių liukų, perėjimo elementų dangčių ir kabelių kanalų dangčių\bandymų temperatūra
+\\serveris\Apskaita\laboratorija\gb\bandymai\2024 11 Slidumo šulinių liukų, perėjimo elementų dangčių ir kabelių kanalų dangčių\gaminių matmenys
+\\serveris\Apskaita\laboratorija\gb\bandymai\2024 11 Slidumo šulinių liukų, perėjimo elementų dangčių ir kabelių kanalų dangčių\poreikis
+\\serveris\Apskaita\laboratorija\gb\bandymai\2024 11 Slidumo šulinių liukų, perėjimo elementų dangčių ir kabelių kanalų dangčių\sąskaita
+\\serveris\Apskaita\laboratorija\gb\BANDYMO ŽURNALAS  prie gaminio\seni
+\\serveris\Apskaita\laboratorija\gb\darbai\2025 04 16 failų struktūros sutvarkymas
+\\serveris\Apskaita\laboratorija\gb\deklaracija\etiketes pvz
+\\serveris\Apskaita\laboratorija\gb\deklaracija\kitu deklaracijos
+\\serveris\Apskaita\laboratorija\gb\deklaracija\seni šablonai
+\\serveris\Apskaita\laboratorija\gb\info dėl užsakovų reikalavimų\2024 11 22 dėl kokybės sertifikato pagal EN1916
+\\serveris\Apskaita\laboratorija\gb\info dėl užsakovų reikalavimų\2024 11 22 dėl kokybės sertifikato pagal EN1916\auditorės ats
+\\serveris\Apskaita\laboratorija\gb\info dėl užsakovų reikalavimų\2024 11 22 dėl kokybės sertifikato pagal EN1916\sertifikavimo kaina
+\\serveris\Apskaita\laboratorija\gb\ISO SERTIFIKATAI\2022 05 01 - 2025 04 30
+\\serveris\Apskaita\laboratorija\gb\ISO SERTIFIKATAI\2025 05 01 - 2028 04 30
+\\serveris\Apskaita\laboratorija\gb\sandeliavimas\Pavyzdziai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Atraminių sienų elementai neturim sertifikato
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Gelžbetoninės sieninės plokštės
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Laiptai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Pamato elementai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Plokštinės grindų perdangos neturim sertifikato
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiesinių k-ijų elementų
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Atraminių sienų elementai neturim sertifikato\standartas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\Energetiniai pramonės gaminiai  g-bos tech kortelė
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\Paraiška
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\sertifikatas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\Paraiška\2024 02 12 gautos paraiškos iš auditorės
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\Paraiška\pasirašymui
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\Paraiška\pasirašymui\pasirašyta
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\2024 09 11 gauta sąskaita už rašymą
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\Brėžiniai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\LITGRID reilalavimai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\pvz
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\rašymas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\Standartas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\susirašinėjimai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\rašymas\2023 08 11 siųsti patikslinimai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\rašymas\2023 10  06 siųsta su komentarais
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\rašymas\2023.10.03 gautas standartas peržiūrėjimui
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\rašymas\sutartis su inspecta
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\rašymas\sutartis su inspecta\su Donato parašu
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\susirašinėjimai\2024 03 06 gauta
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\susirašinėjimai\2024 03 12 gauta
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\susirašinėjimai\2024 04 07 siųsta gaminių sąrašas_tipai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\susirašinėjimai\2024 04 12 siųsta
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Energetiniai pramonės gaminiai\įmonės standartas\susirašinėjimai\2024 05 24 gautas standarto projektas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Betono EPD platformoje
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD pavyzdžiai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD užregistravimas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Gelžbetonio EPD platformoje
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pasiūlymai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Užklausos
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\2024.04.16 gauta pradinė info dokumentacijai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\2024.04.30 EPD priedas nr. 3 šablonas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\2024.05.24 išsiųsti duomenys darytojams
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\2024.05.31 gauti komentarai dėl duomenų
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\2024.07.04 prašo papildomai duomenų
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\2024.07.22 gauti g-bos proceso  diagramos pvz
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\2024.10.01 gauta info dėl EPD patvirtinimo
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono receptai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Elektros kiekiai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\gauti duomenys
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\info
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Vanduo kiekiai pagal skaitliuką
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\2024.07.04 prašo papildomai duomenų\2024.07.09 išsiųsta
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\2024 05 24 Priedai_LT_Betono EPD V1
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\2024 06 06 Priedai_LT_Betono EPD V2
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\2024 08 02 Priedai_LT_Betono EPD V3
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\2024 08 14 Priedai_LT_Betono EPD V4
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\2024.08.22 gauta suderinimui EPD
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\2024.08.22 išsiųsta su ats EPD
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\2024.09.30 pakeista viršelio nuotrauka
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\2024.10.01 gauta EPD
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\betono EPD darbinė versija
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\foto
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\nuoroda į verifikavimo platformą
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\priedui 2
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\2024 08 02 Priedai_LT_Betono EPD V3\išiųstos nuotraukos
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Betono EPD dokumentacija\2024 08 02 Priedai_LT_Betono EPD V3\išsiųsta diagrama ir logo
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Elektros kiekiai\elektra 1m3 betono
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Elektros kiekiai\elektra armatūriniui skaičiavimas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Elektros kiekiai\procentas saulei
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Elektros kiekiai\saulė iš Donato kiekiai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\gauti duomenys\alyva
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\gauti duomenys\armatūra
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\gauti duomenys\dujos
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\gauti duomenys\Paulius betono ir betono žaliavų
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\gauti duomenys\Virinimo viela armatūriniam
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\gauti duomenys\alyva\tiekimo nuoroda
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\gauti duomenys\Paulius betono ir betono žaliavų\receptai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija\2024 05 24 Priedai_LT_Gelžbetonio EPD  V1
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija\2024 06 06 Priedai_LT_Gelžbetonio EPD  V2
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija\2024 08 02 Priedai_LT_Gelžbetonio EPD  V3
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija\2024.08.21 gauta suderinimui EPD
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija\2024.08.21 išsiųsta su ats EPD
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija\2024.08.22 gauta pakoreguota EPD
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija\2024.10.07 aprašo papildymas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija\Foto
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija\New folder
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija\2024 08 02 Priedai_LT_Gelžbetonio EPD  V3\išiųstos nuotraukos
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\Gelžbetonio EPD dokumentacija\2024 08 02 Priedai_LT_Gelžbetonio EPD  V3\išsiųsta diagrama ir logo
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\info\dėl atliekų
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\info\dėl atstumų ir GB betono
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\info\dėl betono gelžbetonio EPD
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija\info\dėl perdirbto plieno kiekio
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\alyva
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\Atliekos 2023m
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\cementas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\dolomito mineraliniai milteliai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\suvirinimo dujos, Anglies dioksidas (CO2)
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\Virinimo viela armatūriniam
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\visos inertinės
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\armat8ros EPD
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\Lytagra
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\Senukai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\Serfas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\armat8ros EPD\Iš Lytagros EPD Celsa
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\armat8ros EPD\iš Lytagros EPD-Kiwa-EE-165926-EN
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\armat8ros EPD\iš Senukų ArcelorMittal Kryvyi Rih EPD 16,4 proc
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\armat8ros EPD\iš Senukų Bars EPD
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\armat8ros EPD\iš Senukų coils epd
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\armat8ros EPD\iš Senukų Environmental Product Declaration - CMC Poland
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\armat8ros EPD\iš Senukų MEGASA EPD
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\armat8ros EPD\iš Senukų PL_Environmental Product Declaration konstrukcinio profilio plienas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\armat8ros EPD\Serfas EPD 1
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\armatūra\armat8ros EPD\Serfas EPD 2
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\Atliekos 2023m\metalų pridavimų suvestinė
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\cementas\akmenė (EPD) atveža Imlitex Industry, UAB
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\cementas\lenkai (EPD) atveža Kauno cementas, UAB
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\suvirinimo dujos, Anglies dioksidas (CO2)\nuoroda į SDL
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\visos inertinės\dolomito skalda 4-16
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\visos inertinės\granito skalda 4-16
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\visos inertinės\smėlis 0-4
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\visos inertinės\žvigždo skalda 2-8
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\visos inertinės\žvirgždas 4-16
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD derinimas\dokumentacija iš tiekėjų\visos inertinės\žvirgždo skalda 8-16
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD užregistravimas\2024 09 18 gauta pasirašymui EPD - vadovybes patvirtinimo laiskas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD užregistravimas\pasirašyti
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD užregistravimas\Registracija platformoje
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\EPD užregistravimas\pasirašyti\pasirašyta
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Gelžbetonio EPD platformoje\2024.10.15.gautas patvirtinimas iš platformos
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pasiūlymai\BM Certification Lietuva UAB
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pasiūlymai\Inspekta
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pasiūlymai\UAB „BUREAU VERITAS LIT
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pasiūlymai\VESTA CONSULTING UAB
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pasiūlymai\BM Certification Lietuva UAB\2024.04.09 pasiūlymas GB ir Betonui
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pasiūlymai\BM Certification Lietuva UAB\EPD  LCA paraiškos formą
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pasiūlymai\VESTA CONSULTING UAB\2024.04.03 pasiūlymas V1 GB gaminiams
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pasiūlymai\VESTA CONSULTING UAB\2024.04.09 pasiūlymas V2 GB ir betonui
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pasiūlymai\VESTA CONSULTING UAB\2024.04.09 pasiūlymas V2 GB ir betonui\plius C40_50
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\EPD platformos mokestis (5m)
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\info dėl paltformos vardo keitimo
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\EPD platformos mokestis (5m)\2024 10 02 gauta sąskaitą už betono verifikavimą
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\EPD platformos mokestis (5m)\2024 11 04 gauta sąskaitą už GB verifikavimą
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024 04 12 gautas sutarties projektas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024 04 22 gautas darbų vykdymo grafikas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024 04 23 su mūsų pastabom
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024 04 24 gautas darbų vykdymo grafikas pakoreguotas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024 04 26 1 su mūsų pastabom
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024 04 26 2 gauta pakoreguota sutartis
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024 04 26 3 gauta pasirašyta sutartis
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024.05.02 gauta sąskaita pirmas mokėjimas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024.08.22 gauta sąskaita antras mokėjimas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024.10.09.gauta sąskaita trečias mokėjimas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024 04 23 su mūsų pastabom\2024.04.25 isiųsta sutartis V2 pakoregavimui
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Pirkimas\Sutarties derinimas\2024 04 26 1 su mūsų pastabom\2024.04.26 isiųsta sutartis V3 pataisymui
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Užklausos\BM Certification Lietuva UAB
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Užklausos\UAB „BUREAU VERITAS LIT
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Užklausos\UAB „Sweco Lietuva“
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Užklausos\VESTA CONSULTING UAB
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\EPD Gaminio aplinkosauginė deklaracija\Užklausos\VESTA CONSULTING UAB\Klausimynas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Gelžbetoninės sieninės plokštės\Gelžb sieninės plokštės g-bos tech kortele
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Gelžbetoninės sieninės plokštės\sertifikatas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Gelžbetoninės sieninės plokštės\standartas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Laiptai\deklaracija tilstai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Laiptai\Laiptų  elementai g-bos tech kortele
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Laiptai\Paraiška
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Laiptai\sertifikatas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Laiptai\standartas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Laiptai\Paraiška\2024 02 12 gautos paraiškos iš auditorės
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Laiptai\Paraiška\pasirašymui
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Laiptai\Paraiška\pasirašymui\pasirašyta
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Pamato elementai\Pamato elementai g-bos tech kortele
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Pamato elementai\sertifikatas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Pamato elementai\standartas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Pamato elementai\Pamato elementai g-bos tech kortele\rūsio sienų blokai
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Pamato elementai\Pamato elementai g-bos tech kortele\rūsio sienų blokai\rusio blokų
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Plokštinės grindų perdangos neturim sertifikato\standartas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\2025 06 16 gauta patvirtinimas dėl galiojimo
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\2025 06 25 gauta informacinis pranešimas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Galiojantys
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Negaliojantys
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Sertifikatų projektai suderinimui
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Negaliojantys\2018_11_14  iki 2019_07_18 senesni
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Negaliojantys\2019_07_18 iki 2020_08_18
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Negaliojantys\2020_08_18 iki 2022_09_30
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Negaliojantys\2022 09 30 -
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Sertifikatų projektai suderinimui\2024 07 19 atsiųsta V1
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Sertifikatų projektai suderinimui\2024 07 23 atsiųsta V2
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Sertifikatų projektai suderinimui\2024 07 30 atsiųsta V3
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Sertifikatų projektai suderinimui\2024 07 31 atsiųsta V4
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\SERTIFIKATAI skenuoti\Sertifikatų projektai suderinimui\2024 08 05 atsiųsta V5
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiesinių k-ijų elementų\sertifikatas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiesinių k-ijų elementų\standartas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiesinių k-ijų elementų\Tiesinių elementų g-bos tech kortelė
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\dokumentai sertifikatui
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\paraiška
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\sertifikatas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\standartas
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\Tiltų  elementai g-bos tech kortele
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\dokumentai sertifikatui\auditores pastabos
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\dokumentai sertifikatui\paraiška
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\dokumentai sertifikatui\auditores pastabos\2023.06.30 gauta pastabos
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\dokumentai sertifikatui\auditores pastabos\2024 02 12 gauta paraiska pildymui
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\paraiška\2024 02 12 gautos paraiškos iš auditorės
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\paraiška\pasirašymui
+\\serveris\Apskaita\laboratorija\gb\SERTIFIKATAI\Tiltų elementai\paraiška\pasirašymui\pasirašyta
+\\serveris\Apskaita\laboratorija\gb\Sertifikatų galiojimas\2025 06 13 gauta ats iš NAB
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\info
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Kordinatorius isakymas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Metalo sertifikatai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\suvirinimo kontroles planas, SPA, SPPP
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintojų sąrašas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2017
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2020
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2021
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2022
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2023
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2024
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\info
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2020\SPPP ir SPA pasitvirtinimas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2020\SPPP ir SPA pasitvirtinimas\deklaracijos armatūros
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2020\SPPP ir SPA pasitvirtinimas\issiusta inspectai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2020\SPPP ir SPA pasitvirtinimas\Protokolai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2020\SPPP ir SPA pasitvirtinimas\rankeneliu padėtis
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2020\SPPP ir SPA pasitvirtinimas\SPPP, pSPA
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2020\SPPP ir SPA pasitvirtinimas\deklaracijos armatūros\armatūros sertifikatai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2021\2021 06 08 patikslinimai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2021\isiusti dokumentai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2022\Kiwa Inspecta
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2022\VšĮ Technikos priežiūros tarnyba
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2022\Kiwa Inspecta\armatūros sertifikatai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2023\Inspekta Lab, UAB
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2023\VšĮ Technikos priežiūros tarnyba lividuota
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2023\Inspekta Lab, UAB\2023.06.06 gauti protokolai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2023\Inspekta Lab, UAB\Tiesinimo staklės
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2023\Inspekta Lab, UAB\Virinimo vielos markė
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2023\Inspekta Lab, UAB\Tiesinimo staklės\New folder
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2024\2024 06 11 sąskaita 3 žm sertifikavimas ir armatūros band
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2024\dokumentacija
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2024\dokumentacija\2024.05.28 gauta bandymų rezultatai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2024\dokumentacija\2024.05.28 Protokolai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2024\dokumentacija\D8 išvejamo etiketė
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Armatūros bandymai\2024\dokumentacija\2024.05.28 gauta bandymų rezultatai\periodiniai armatūros bandymai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Kordinatorius isakymas\dėl koordinatoriaus pažymėjimo
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\2017 10 16 - 2018 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\2018 10 16 - 2019 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\2019 10 16 - 2020 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\2020 10 16 - 2021 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\2021 11 16 - 2022 11 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\2022 11 16 - 2023 11 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\2023 10 16 - 2024 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\matavimo priemonių patikros procedūra
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\Matavimo priemonių sąrašas 2025 07 02
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\seni
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\2017 10 16 - 2018 10 16\2017-2018
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\2018 10 16 - 2019 10 16\2018-2019
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\2019 10 16 - 2020 10 16\2019-2020
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\matavimo priemonių patikros procedūra\info
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\seni\Mat priem ir suvirintoju sarašas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\seni\Mat priem ir suvirintoju sarašas\2017 10 16 - 2018 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\seni\Mat priem ir suvirintoju sarašas\2018 10 16 - 2019 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\seni\Mat priem ir suvirintoju sarašas\2019 10 16 - 2020 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\seni\Mat priem ir suvirintoju sarašas\2020 10 16 - 2021 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\seni\Mat priem ir suvirintoju sarašas\2021 11 16 - 2022 11 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\seni\Mat priem ir suvirintoju sarašas\2022 11 16 - 2023 11 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Matavimo priemonės\seni\Mat priem ir suvirintoju sarašas\matavimo priemonių patikros procedūra
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Metalo sertifikatai\2021
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Metalo sertifikatai\2022
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Metalo sertifikatai\2023
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Metalo sertifikatai\2024
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\suvirinimo kontroles planas, SPA, SPPP\info
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\suvirinimo kontroles planas, SPA, SPPP\SPA, SPPP
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\suvirinimo kontroles planas, SPA, SPPP\Suvirinimo kontrolės planas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\suvirinimo kontroles planas, SPA, SPPP\SPA, SPPP\2023 SPA įmonės
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\suvirinimo kontroles planas, SPA, SPPP\SPA, SPPP\pSPA pasitvirtinimas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\suvirinimo kontroles planas, SPA, SPPP\SPA, SPPP\pSPA pasitvirtinimas\2020 pSPA
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\suvirinimo kontroles planas, SPA, SPPP\SPA, SPPP\pSPA pasitvirtinimas\2021 pSPA
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\suvirinimo kontroles planas, SPA, SPPP\SPA, SPPP\pSPA pasitvirtinimas\2022 pSPA
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\2017-2018
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\2018-2019
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\2019-2020
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\2021-2022
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\2022-2023
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\info
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\Standartas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\Suvirimo aparatų patikra užklausos
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\Suvirinimo vielos laikymo sąlygos
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\2021-2022\suvirinimo aparatai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\info\foto 2024 10 29
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\Suvirimo aparatų patikra užklausos\New folder
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\Suvirinimo vielos laikymo sąlygos\lytagra
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirinimo įranga\Suvirinimo vielos laikymo sąlygos\rywal
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2015-2018
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2018-2021
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2021-2024
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024 suvirintojų atestavimas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\Gudauskas 2020 06 08- 2022 05 25 (LST EN ISO 17660-1)
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\Gudauskas 2022 04 04 - 2024 04 04 (LST EN ISO 17660-1)
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\KONTAKTAI
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\suvirintojų kvalifikaciją dėl armatūros suvirinimo (LST EN ISO 17660-1)
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2021-2024\Dumbliauskas dok
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2021-2024\Katino dok
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2021-2024\Paraiška
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2021-2024\Suvirintojų pasižadėjimai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2021-2024\Venslovas dok
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2021-2024\Paraiška\senu paraiškų pildymo pvz
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024 suvirintojų atestavimas\2024.03.26 gauta info dėl bandinių
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024 suvirintojų atestavimas\2024.05.17 išsiųsta į Inspekta Lab, UAB
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024 suvirintojų atestavimas\2024.06.13 gauti sertifikatai ir sąskaita
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024 suvirintojų atestavimas\Paraiškos Inspektai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024 suvirintojų atestavimas\Protokolai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024 suvirintojų atestavimas\Sertifikatai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024 suvirintojų atestavimas\turimi atestatai iki atestavimo
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024 suvirintojų atestavimas\2024.05.17 išsiųsta į Inspekta Lab, UAB\2024.05.17
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024 suvirintojų atestavimas\2024.05.17 išsiųsta į Inspekta Lab, UAB\2024.06.10 koreguota
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024 suvirintojų atestavimas\Protokolai\2024.05.27 Protokolai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\2024.08.13 dėl Inspektos akreditacijos
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\2024.08.19 gautas atsakymas iš NAB
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\2024.09.19 paraiška
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\2024.09.26 bandinių patikrinimo protokolas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\2024.09.26 paraiška pakoreguota
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\2024.09.30 gauta sąskaita už atestaciją
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\2024.09.30 gauti sertifikatai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\bandinių suvirinimas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\Bandinys Dariui
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\Bandinys Myševui
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\pasiūlymai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\suvirinimo-darbuotoju-pasizadejimas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\pasiūlymai\EMC
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\pasiūlymai\Inspekta
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\pasiūlymai\Kiwa
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\pasiūlymai\Tuvlita
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\pasiūlymai\Kiwa\2024.08.09
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\pasiūlymai\Kiwa\2024.08.22
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\pasiūlymai\Kiwa\bandiniai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\2024.09 atestavimas pagal 9606-1\pasiūlymai\Kiwa\dokumentai
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\KONTAKTAI\Romas Skripka Inspekta
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\KONTAKTAI\seni
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\KONTAKTAI\Valentinas Varnauskas 868554289
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\suvirintojų kvalifikaciją dėl armatūros suvirinimo (LST EN ISO 17660-1)\2023 12 08 išsiųsta užklausa
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\suvirintojų kvalifikaciją dėl armatūros suvirinimo (LST EN ISO 17660-1)\2023 12 11 Gauta atestacijos kainos
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintoju atestatai\suvirintojų kvalifikaciją dėl armatūros suvirinimo (LST EN ISO 17660-1)\Urbonas Mantas
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintojų sąrašas\2017 10 16 - 2018 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintojų sąrašas\2018 10 16 - 2019 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintojų sąrašas\2019 10 16 - 2020 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintojų sąrašas\2020 10 16 - 2021 10 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintojų sąrašas\2021 11 16 - 2022 11 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintojų sąrašas\2022 11 16 - 2023 11 16
+\\serveris\Apskaita\laboratorija\gb\Suvirinimas, suvirintojai\Suvirintojų sąrašas\2023 11 16 - 2024 11 16
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\nuoroda
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\senesni
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\1
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\10
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\11
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\12
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\13
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\14
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\18
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\19
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\2
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\20
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\24
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\25
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\26
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\27
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\3
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\34
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\37
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\38
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\4
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\5
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\52
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\55
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\58
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\6
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\61
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\7
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\75
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\8
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\82
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Armatūros sąskaitos atsekamumas\9
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\Etikečių projektas
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\Etikėčių šablonai
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.09
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.12
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.13
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.14
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.15
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.19
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.20
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.21
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.22
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.23
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.26
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.27
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.28
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\02\02.29
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.01 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.04 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.05 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.06 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.07 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.08 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.12 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.13 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.14 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.15 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.18 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.19 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.20 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.21 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.22 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.25 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.26 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.27 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.28 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\03\03.29 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.02 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.03 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.04 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.05 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.08 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.09 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.10 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.11 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.12 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.15 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.16 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.17 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.18 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.19 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.22 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.23 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.24 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.25 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.26 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.29
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\04\04.30
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.02 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.03 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.06 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.07 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.08 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.09 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.10 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.13 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.14 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.15 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.16 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.17 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.20 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.21 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.22 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.23 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.24 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.27 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.28 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.29 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.30 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\05\05.31 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.03 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.04 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.05 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.06 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.07 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.10 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.11 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.12 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.13+
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.14 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.17 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.18 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.19 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.20 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.21 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.25 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.26 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.27 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\06\06.28 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.01 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.02 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.03 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.04 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.05+
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.08 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.09 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.10 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.11 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.12 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.15 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.16 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.17 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.18 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.19 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.22 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.23 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.24 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.25 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.26 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.29 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.30+
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\07\07.31 +
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-01
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-02
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-05
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-06
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-07
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-08
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-09
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-10
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-12
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-13
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-14
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-20
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-21
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-22
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-26
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-27
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-28
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-29
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08-30
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08.19
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\08\08.23
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-02
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-03
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-04
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-05
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-06
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-09
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-10
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-11
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-12
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-13
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-16
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-17
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-18
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-19
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-20
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-23
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-24
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-25
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-26
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-27
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\09\09-30
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.01
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.02
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.03
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.04
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.07
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.08
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.09
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.10
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.11
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.14
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.15
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.16
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.17
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.18
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.21
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.22
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.23
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.25
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.28
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.29
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.30
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\10\10.31
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.04
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.05
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.06
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.07
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.08
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.11
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.12
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.13
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.14
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.15
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.18
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.19
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.20
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.21
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.22
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.25
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.26
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.27
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.28
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\11\11.29
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12..18
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.02
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.03
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.04
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.05
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.06
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.09
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.10
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.11
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.12
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.13
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.16
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.17
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.18
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2024\12\12.20
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.06
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.07
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.08
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.09
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.10
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.13
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.14
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.15
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.16
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.17
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.20
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.21
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.22
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.23
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.24
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.27
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.28
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.29
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.30
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\01\01.31
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.03
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.04
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.05
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.06
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.07
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.10
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.11
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.12
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.13
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.14
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.17
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.18
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.19
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.20
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.21
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.24
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.25
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.26
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.27
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\02\02.28
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.03
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.04
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.05
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.06
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.07
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.12
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.13
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.14
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.15
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.17
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.18
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.19
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.20
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.21
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.24
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.25
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.26
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.27
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.28
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\03\03.31
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.01
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.02
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.03
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.04
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.07
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.08
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.09
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.10
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.11
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.15
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.17
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.18
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.22
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.23
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.24
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.28
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.29
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\04\04.30
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.08
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.09
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.10
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.12
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.13
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.14
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.15
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.16
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.19
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.20
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.21
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.22
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.23
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.26
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.27
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.28
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.29
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\05\05.30
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.02
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.03
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.04
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.05
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.06
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.09
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.10
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.11
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.12
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.13
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.16
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.17
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.18
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.19
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.20
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.25
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.26
+\\serveris\Apskaita\laboratorija\gb\užrašomieji duomenys\Etikėtės\2025\06\06.27
+\\serveris\Apskaita\laboratorija\gb\Įsakymai, įgaliojimai\dėl ĮST 281324460_2024  patvirtinimo
+\\serveris\Apskaita\laboratorija\laborantas\Buffer
+\\serveris\Apskaita\laboratorija\laborantas\darbai
+\\serveris\Apskaita\laboratorija\laborantas\info
+\\serveris\Apskaita\laboratorija\laborantas\Buffer\DELL
+\\serveris\Apskaita\laboratorija\laborantas\Buffer\Laiskai
+\\serveris\Apskaita\laboratorija\laborantas\Buffer\Seni
+\\serveris\Apskaita\laboratorija\laborantas\darbai\garo akumuliatoriuas instrukcija
+\\serveris\Apskaita\laboratorija\laborantas\darbai\katilo instrukcija
+\\serveris\Apskaita\laboratorija\laborantas\info\polistirolo technologui
+\\serveris\Apskaita\laboratorija\laborantas\info\skambuciu irasai
+\\serveris\Apskaita\laboratorija\laborantas\info\skambuciu irasai\2015 060 04
+\\serveris\Apskaita\laboratorija\laborantas\info\skambuciu irasai\2015 07 02
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros
+\\serveris\Apskaita\laboratorija\laboratorine iranga\pasiulymai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\sutartys
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\2. vandens skaitikliai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\6. Varžų matavimo prietaisas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\7. Įtraukto oro matuoklis
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\Įst. patikrų galiojimo terminai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2017 10 06 liniuotė_matavimo priemonės (betono)
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2018 10 02 hidraulinis presas_svoriniai dozatoriai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2019 09 12 ruletė 50m sertifikatas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2019 09 28 betono mazgo sertifikatai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2020 02 12 liniuotė 500mm
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2020 09 28 svoriniai dozatoriai, presas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2021 04 29 nauja betono mazgo pusė
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2021 09 28 svoriniai dozatoriai, presas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2021 11 23 El. svarstyklės
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2022 05 09 liniuotė 500mm Ruletė 50m
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2022 05 25 nauja betono mazgo pusė
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2022 09 20 sena maišyklė sąskaita_sertifikatai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2023 05 26 el.svarstyklės_presas_betono
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2024 05 23  liniuotė_ruletė_presas_svoriniai dozatoriai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2025 05 27  _presas_svoriniai dozatoriai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2025 05 27  _presas_svoriniai dozatoriai pataisytas sertifikatas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2025 06 10 pakabinamos svartyklės
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\kontaktai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2017 10 06 liniuotė_matavimo priemonės (betono)\2017 10 06 gauta sąskaita
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2020 02 12 liniuotė 500mm\isankstine uz patikra
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2021 04 29 nauja betono mazgo pusė\Sertifikatai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2021 11 23 El. svarstyklės\info
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2022 05 09 liniuotė 500mm Ruletė 50m\Sertifikatai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2022 09 20 sena maišyklė sąskaita_sertifikatai\2022 09 20 naujas presas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2023 05 26 el.svarstyklės_presas_betono\2023 05 26 gauta sąskaita
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2023 05 26 el.svarstyklės_presas_betono\2023 07 18 gauta Kraninės (pakabinamos) svartyklės
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2024 05 23  liniuotė_ruletė_presas_svoriniai dozatoriai\2024 05 27 sertifikatai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\1. Svėrimo ir matavimo priemonės\2024 05 23  liniuotė_ruletė_presas_svoriniai dozatoriai\2024 06 01 gauta saskaita
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\2. vandens skaitikliai\2016
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\2. vandens skaitikliai\2018
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\2. vandens skaitikliai\2020
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\2. vandens skaitikliai\2022
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\2. vandens skaitikliai\2024
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\2. vandens skaitikliai\2016\KMC-paslaugos_files
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\2. vandens skaitikliai\2024\Sertifikatas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2016
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2018
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2019
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2020
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2021
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2022
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2023
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2024
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2025
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\Gesintuvu patikra kontaktai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\info
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\pasiūlymai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2016\UKVEDYS
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2016\UKVEDYS\iskabos
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2022\pasiūlymai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2022\pirkimas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2022\užklausos
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2022\užklausos\Pasiulymai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2023\2023.08.04 Ugnivita, UAB
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2023\Gesintuvų įsigijimo poreikis
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2023\isiųsta Antanui
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2024\2024 04 29 panaudotų gesintuvų papildymas, patikra
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2024\Gesintuvų žarnelės
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2024\nurašytas 2024.08
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2024\sąskaita
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\2024\Ugnivita kainodara
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\Gesintuvu patikra kontaktai\Firesta, UAB tikrina vietoj
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\Gesintuvu patikra kontaktai\Geri gesintuvai, UAB išsiveža
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\Gesintuvu patikra kontaktai\Ugnivita, UAB tirina vietoj, pildyti išsiveža
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\info\gesintuvai į auto
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\3. gesintuvai\pasiūlymai\2023.07.12 Ugnivita, UAB
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2015
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2017
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2018
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2019
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2021
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2022
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2023
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2024
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2025
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2017\monometrai SF
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2018\saskaitos
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2018\sertifikatai 2018 12 10
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2019\Sertifikatai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2021\saskaita
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2021\SERTIFIKATAI
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2021\Uzsakymo forma
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\4. monometrai\2023\2023.02.22-2024.02.21
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2020
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2020\Pirkimas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\2025 05 07 gauta, patikra 5 metai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\2025 05 07 gautas poreikis
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\2025 05 07 siųsta užklausa Korner
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\2025 05 07 siųstas užsakymas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\2025 05 08 gauta išankstinė
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\2025 05 09 gauta sąskaita
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\logistika
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\neatitiktys
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\nuorodos
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\pasiūlymai
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\Sertifikatas 2025_05_04-2030_05_04
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\logistika\eiga
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\neatitiktys\data būsena aprašymas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\pasiūlymai\Nordic Metrology Science
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\pasiūlymai\Patikra, UAB
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\pasiūlymai\sverk.lt
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\5. Termometras laboratorijoje\2025\pasiūlymai\Patikra, UAB\15 eur plius pvm
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\6. Varžų matavimo prietaisas\2023
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\6. Varžų matavimo prietaisas\2024
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\6. Varžų matavimo prietaisas\Vilduja prisijungimas
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\6. Varžų matavimo prietaisas\2023\info
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\6. Varžų matavimo prietaisas\2023\Metrel Eurotest MI 3102H BT
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\6. Varžų matavimo prietaisas\2024\Metrel Eurotest MI 3102H BT
+\\serveris\Apskaita\laboratorija\laboratorine iranga\metrologines patikros\7. Įtraukto oro matuoklis\2024.07.18
+\\serveris\Apskaita\laboratorija\laboratorine iranga\pasiulymai\2022 12 08 Nordic Metrology Science
+\\serveris\Apskaita\laboratorija\laboratorine iranga\pasiulymai\2025 06 12 Vakarų metrologija
+\\serveris\Apskaita\laboratorija\laboratorine iranga\pasiulymai\VILDUJA Laboratorijos paslaugos 2023
+\\serveris\Apskaita\laboratorija\laboratorine iranga\sutartys\Vilniaus metrologijos centras, UAB 2021 06 17
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29
+\\serveris\Apskaita\laboratorija\tiekimas\Betono kubelių formos 2017 12 21
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29
+\\serveris\Apskaita\laboratorija\tiekimas\Granulės sedm. iš b-a pasibandymui 2018 01 18
+\\serveris\Apskaita\laboratorija\tiekimas\laboratorines svarstykles
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150
+\\serveris\Apskaita\laboratorija\tiekimas\Magnetukai užrašams galerijoje 2019 01 10
+\\serveris\Apskaita\laboratorija\tiekimas\mikrobange medziagu dziovinimui 2020 11 14
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2018 11 14
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2020 09 17
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI
+\\serveris\Apskaita\laboratorija\tiekimas\PP risimo juosta 2019 01 10
+\\serveris\Apskaita\laboratorija\tiekimas\Schmidt plaktukas 2021 11 15
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06
+\\serveris\Apskaita\laboratorija\tiekimas\Šmidto plaktukas 2017 09
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\Gedimas_2024 12 12
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\info
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\instrukcija 2021 12 14
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\pasiūlymai
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\užklausimas
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\Gedimas_2024 12 12\pasiūlymai
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\Gedimas_2024 12 12\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\Gedimas_2024 12 12\poreikis
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\Gedimas_2024 12 12\užklausimas
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\Gedimas_2024 12 12\pasiūlymai\analizė
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\Gedimas_2024 12 12\pirkimas\sertifikatai deklaracijos
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\Gedimas_2024 12 12\pirkimas\sąskaita
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\Gedimas_2024 12 12\poreikis\info
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\pasiūlymai\Matest pasiūlymas
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\pasiūlymai\Moris LT
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\pasiūlymai\testing de
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\pirkimas\perejimai angliski 2021 12 12
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\pirkimas\perejimai angliski 2021 12 12\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\betono bandinių presas 2021 09 29\pirkimas\perejimai angliski 2021 12 12\poreikis
+\\serveris\Apskaita\laboratorija\tiekimas\Betono kubelių formos 2017 12 21\pasiūlymai
+\\serveris\Apskaita\laboratorija\tiekimas\Betono kubelių formos 2017 12 21\užklausimas
+\\serveris\Apskaita\laboratorija\tiekimas\Betono kubelių formos 2017 12 21\vykdomas pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\Betono kubelių formos 2017 12 21\užklausimas\kemek
+\\serveris\Apskaita\laboratorija\tiekimas\Betono kubelių formos 2017 12 21\užklausimas\LBC
+\\serveris\Apskaita\laboratorija\tiekimas\Betono kubelių formos 2017 12 21\užklausimas\moris
+\\serveris\Apskaita\laboratorija\tiekimas\Betono kubelių formos 2017 12 21\užklausimas\poreikis
+\\serveris\Apskaita\laboratorija\tiekimas\Betono kubelių formos 2017 12 21\užklausimas\Vildoma
+\\serveris\Apskaita\laboratorija\tiekimas\Betono kubelių formos 2017 12 21\užklausimas\wirtgen
+\\serveris\Apskaita\laboratorija\tiekimas\Betono kubelių formos 2017 12 21\vykdomas pirkimas\sąskaita
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\poreikis
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\užklausimas
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\domagroup
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\isometrija SIA
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\labochema
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\labostera
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\nr.2
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\stirolab
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\techlabsystems
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\nr.2\domagroup
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\nr.2\labochema
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\nr.2\stirolab
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\nr.2\techlab system
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\nr.2\domagroup\manualas
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\nr.2\labochema\manualas
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\nr.2\stirolab\manualas
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\pasiūlymai\nr.2\techlab system\manualas
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\užklausimas\info
+\\serveris\Apskaita\laboratorija\tiekimas\EPS laboratorinė įranga 2021 10 29\užklausimas\nr.2
+\\serveris\Apskaita\laboratorija\tiekimas\Granulės sedm. iš b-a pasibandymui 2018 01 18\vykdomas pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\laboratorines svarstykles\pasiulymai
+\\serveris\Apskaita\laboratorija\tiekimas\laboratorines svarstykles\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\pasiūlymai
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\poreikis
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\užklausimas
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\pasiūlymai\alfatest
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\pasiūlymai\logistika
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\pirkimas\klaidingai pervesta už pervežimą
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\pirkimas\logistika
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\pirkimas\negavom kaiščių
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\pirkimas\negavom kaiščių\2022 07 04 siunčiam laišką dėl kaiščių
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\pirkimas\negavom kaiščių\2022 07 08
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\pirkimas\negavom kaiščių\2022 07 08 atsakymas dėl kaiščių
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\pirkimas\negavom kaiščių\atsiuntė kaiščius 2022 08 01
+\\serveris\Apskaita\laboratorija\tiekimas\Laboratoriniai betono kubeliai_150x150\užklausimas\logistika
+\\serveris\Apskaita\laboratorija\tiekimas\mikrobange medziagu dziovinimui 2020 11 14\uzsakymas
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2018 11 14\pasiūlymai
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2018 11 14\užklausimas
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2018 11 14\vykdomas pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2018 11 14\pasiūlymai\analizė
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2018 11 14\užklausimas\poreikis
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2020 09 17\analizė
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2020 09 17\pasiūlymai
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2020 09 17\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2020 09 17\užklausimai
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2020 09 17\pasiūlymai\derinu
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2020 09 17\pasiūlymai\tetraland
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2020 09 17\pirkimas\transportas
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2020 09 17\pirkimas\transportas\muitas
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2020 09 17\pirkimas\transportas\packing list
+\\serveris\Apskaita\laboratorija\tiekimas\Oro kiekio betone nustatymo 2020 09 17\pirkimas\transportas\SF
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Buitines technikos pridavimas
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Deziu pasiulymai 2018 10 01
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Maisai dezems pasiulymai
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\polipropileno maisai
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Smito plaktukas pasiulymai
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Telia telefonu pasiulymas 2018 08 28
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Įtraukto oro matuoklis pasiulymai 2018 11 14
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Įtraukto oro matuoklis pasiulymai 2020 09 14
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\polipropileno maisai\Siustos uzklausos
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Smito plaktukas pasiulymai\Smito plaktukas pasiulymai
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Smito plaktukas pasiulymai\uzsakyta ebay
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Smito plaktukas pasiulymai\Smito plaktukas pasiulymai\uzsakyta ebay
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Įtraukto oro matuoklis pasiulymai 2018 11 14\KTU-neatsake
+\\serveris\Apskaita\laboratorija\tiekimas\PASIULYMAI\Įtraukto oro matuoklis pasiulymai 2018 11 14\Moris
+\\serveris\Apskaita\laboratorija\tiekimas\PP risimo juosta 2019 01 10\pasiūlymai
+\\serveris\Apskaita\laboratorija\tiekimas\PP risimo juosta 2019 01 10\užklausimas
+\\serveris\Apskaita\laboratorija\tiekimas\PP risimo juosta 2019 01 10\vykdomas pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\Schmidt plaktukas 2021 11 15\pasiūlymai
+\\serveris\Apskaita\laboratorija\tiekimas\Schmidt plaktukas 2021 11 15\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\Schmidt plaktukas 2021 11 15\poreikis
+\\serveris\Apskaita\laboratorija\tiekimas\Schmidt plaktukas 2021 11 15\užklausimas
+\\serveris\Apskaita\laboratorija\tiekimas\Schmidt plaktukas 2021 11 15\pasiūlymai\alfatest
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\tiekimas
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\pirkimas\eksploatacija
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\pirkimas\instrukcija 2021 12 14
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\pirkimas\pasiūlymas
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\pirkimas\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\pirkimas\poreikis
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\pirkimas\tiekimas lizdų 2022 01 21
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\pirkimas\užklausimas
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\pirkimas\tiekimas lizdų 2022 01 21\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\tiekimas\taimeris 2022 05 03
+\\serveris\Apskaita\laboratorija\tiekimas\vibrostaliukas betonui 2021 10 06\tiekimas\taimeris 2022 05 03\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\Šmidto plaktukas 2017 09\pasiūlymai
+\\serveris\Apskaita\laboratorija\tiekimas\Šmidto plaktukas 2017 09\pirkimas
+\\serveris\Apskaita\laboratorija\tiekimas\Šmidto plaktukas 2017 09\užklausimai
+\\serveris\Apskaita\laboratorija\tiekimas\Šmidto plaktukas 2017 09\pasiūlymai\uzsakyta ebay
+\\serveris\Apskaita\laboratorija\tiekimas\Šmidto plaktukas 2017 09\pirkimas\uzsakyta ebay
+\\serveris\Apskaita\laboratorija\Gelmesta sertifikatas\2022
+\\serveris\Apskaita\laboratorija\Gelmesta sertifikatas\dokumentų pateikimo terminai
+\\serveris\Apskaita\laboratorija\Gelmesta sertifikatas\GELMESTOS ATESTATAS
+\\serveris\Apskaita\laboratorija\Gelmesta sertifikatas\2022\2022 10 26 išsiųsta  į SSVA
+\\serveris\Apskaita\laboratorija\Gelmesta sertifikatas\2022\2023 02 10 siųsta į SSVA
+\\serveris\Apskaita\laboratorija\Gelmesta sertifikatas\2022\Pasirašymui
+\\serveris\Apskaita\laboratorija\Gelmesta sertifikatas\2022\viliaus asmeninis el.p
+\\serveris\Apskaita\laboratorija\Gelmesta sertifikatas\dokumentų pateikimo terminai\2023.12.14 isiųsta užklausa SSVA dėl terminų
+\\serveris\Apskaita\laboratorija\Gelmesta sertifikatas\dokumentų pateikimo terminai\2023.12.15 gautas atsakymas iš SSVA
